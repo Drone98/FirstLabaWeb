@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px){
+    #main-container {
+        flex-direction: column-reverse;
+        justify-content: space-around;
+    }
+
+    .column {
+        min-width: 100%;
+    }
+}
